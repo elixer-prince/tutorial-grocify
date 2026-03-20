@@ -1,1 +1,1 @@
-# Grocify App
+# Grocify (React Native Tutorial Project)
