@@ -1,11 +1,11 @@
 import { Text, View } from "react-native";
 
-export default function Index() {
+const IndexPage = () => {
   return (
     <View>
-      <Text className="text-red-500 font-bold">
-        This text gets edited in real time!
-      </Text>
+      <Text>Index Page</Text>
     </View>
   );
-}
+};
+
+export default IndexPage;
