@@ -44,3 +44,6 @@ app-example
 
 # Zed
 .zed
+
+# Environment variables
+.env
